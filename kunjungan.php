@@ -52,6 +52,7 @@
 <th>ID Dokter</th>
 <th>Tanggal</th>
 <th>Keluhan</th>
+<th>Action</th>
 </tr>
 <?php
 include 'koneksi1.php';
