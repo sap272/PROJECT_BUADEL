@@ -41,7 +41,7 @@
                         <th>Nama Dokter</th>
                         <th>Spesialisasi</th>
                         <th>Nomor Handphone</th>
-                        <th>Aksi</th>
+                        <th>Action</th>
                     </tr>
                     <?php
                     include 'koneksi2.php';
